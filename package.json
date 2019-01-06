@@ -1,0 +1,32 @@
+{
+  "name": "tropicali",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTGolecki/Tropicali.git"
+  },
+  "keywords": [
+    "restaurant",
+    "website"
+  ],
+  "author": "Super Hi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTGolecki/Tropicali/issues"
+  },
+  "homepage": "https://github.com/JTGolecki/Tropicali#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "node-sass": "^4.11.0"
+  }
+}

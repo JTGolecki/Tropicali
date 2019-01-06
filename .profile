@@ -1,0 +1,5 @@
+alias photoshop="open -a Adobe\ Photoshop\ CS5"
+alias photo="open -a Affinity\ Photo"
+alias illustrator="open -a Adobe\ Illustrator\ CS5"
+alias indesign="open -a Adobe\ InDesign\ CS5"
+alias designer="open -a Affinity\ Designer"
