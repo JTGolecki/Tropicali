@@ -1,2 +1,7 @@
+# // Vid04 – T 01:13 in diese Datei kann alles eingefügt werden,…
+# … das wir nicht auf "git" und "git-hub" haben wollen. 
+# Wie zum Beispiel die einzelnen Modulle von "node",…
+# … die wir für die erstellte Version der Website nicht brauchen.
 node_modules
+# Oder OSX-Systemdateien.
 .DS_Store
