@@ -80,6 +80,10 @@ section.grid p {
     margin:  20px 0 20px 0;
 }
 
+section.grid img {
+    width: 100%;
+}
+
 section.centered {
     width: var(--centered-width);
     margin-left:auto;
